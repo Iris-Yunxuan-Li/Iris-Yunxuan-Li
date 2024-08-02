@@ -7,7 +7,7 @@ Outside of my research, I have a strong passion for studying machine learning an
 ## Interests
 **Mathematics**: Algebraic topology, homotopy theory, and category theory.
 
-**Machine Learning**: Neural networks, natural language processing, and time series analysis.
+**Machine Learning**: Neural networks and time series analysis.
 
 **Programming**: Proficient in Python. Familiar with MATLAB and Sage.
 
