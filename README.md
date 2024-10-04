@@ -4,17 +4,11 @@ I am a math PhD student at the University of Chicago working on algebraic topolo
 
 Outside of my research, I have a strong passion for studying machine learning and applying it to solve real-world problems. I enjoy experimenting with various projects that involve data analysis, algorithm development, and predictive modeling.
 
-## Interests
-**Mathematics**: Algebraic topology, homotopy theory, and category theory.
-
-**Machine Learning**: Neural networks and time series analysis.
-
-**Programming**: Proficient in Python. Familiar with MATLAB and Sage.
 
 <!-- **Projects**: Developing machine learning models, data visualization, and creating interactive web applications. -->
 
 ## Experience
-**Research Assistant**: Studying properties of topological Hochschild homology and topylogical cyclic homology.
+**Research**: Studying properties of topological Hochschild homology and topylogical cyclic homology.
 
 **Instructor**: Taught the calculus 130's and 150's sequence at the university of Chicago.
 
@@ -23,7 +17,7 @@ Outside of my research, I have a strong passion for studying machine learning an
 
 ## Hobbies
 
-Learning new machine leaning models, leaning new math, knitting 🧶, traveling, and playing with my two cats 🐈🐈.
+Learning new machine leaning models, learning math, knitting 🧶, traveling, and playing with my two cats 🐈🐈.
 
 Feel free to connect with me to discuss mathematics, machine learning, or any interesting projects you have in mind!
 
