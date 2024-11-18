@@ -1,8 +1,8 @@
 # About me
 
-I am a math PhD student at the University of Chicago working on algebraic topology. 
+I am a fifth year math PhD student at the University of Chicago working on algebraic topology. 
 
-Outside of my research, I have a strong passion for studying machine learning and applying it to solve real-world problems. I enjoy experimenting with various projects that involve data analysis, algorithm development, and predictive modeling.
+Outside of my research, I have a strong passion for studying machine learning and solving fun practical problems. I enjoy experimenting with various projects that involve data analysis, algorithm development, and predictive modeling.
 
 
 <!-- **Projects**: Developing machine learning models, data visualization, and creating interactive web applications. -->
